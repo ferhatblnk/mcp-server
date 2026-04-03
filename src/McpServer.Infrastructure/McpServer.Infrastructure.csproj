@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\McpServer.Domain\McpServer.Domain.csproj" />
+    <ProjectReference Include="..\McpServer.Application\McpServer.Application.csproj" />
+  </ItemGroup>
+</Project>

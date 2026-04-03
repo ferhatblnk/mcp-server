@@ -353,3 +353,6 @@ MigrationBackup/
 
 .idea/
 .sonarqube/
+
+.DS_Store
+**/.DS_Store
